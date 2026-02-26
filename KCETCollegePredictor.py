@@ -87,7 +87,7 @@ if not st.session_state.logged_in:
 # =====================
 @st.cache_data
 def load_data():
-    url = "https://github.com/VishnuSastryHK/KCETCollegePredictor/raw/master/CET_Database_Final2020.csv"
+    url = "https://raw.githubusercontent.com/Adi-an/Admission-assistanceadithyaan/refs/heads/main/CET_Database_Final2020.csv""
     content = requests.get(url).content
     return pd.read_csv(io.StringIO(content.decode('utf-8')))
 
