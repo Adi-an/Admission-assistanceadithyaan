@@ -10,7 +10,7 @@ The app is built using:
 
 
 
-![SCREENSHOT]("C:\Users\ADMIN\OneDrive\Desktop\Engineering\KCETCollegePredictor-master\Screenshot 2026-02-26 082748.png")
+
 
 ## Awesome Contributors ✨
 
